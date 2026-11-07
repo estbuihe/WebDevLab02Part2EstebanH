@@ -1,0 +1,17 @@
+{
+    "chart_title": "Weekly Soccer Training & Conditioning Goals",
+    "data_points": [
+        {
+            "label": "Technical Drills",
+            "value": 150
+        },
+        {
+            "label": "Stamina & Cardio",
+            "value": 180
+        },
+        {
+            "label": "Strength & Weight Lifting",
+            "value": 120
+        }
+    ]
+}
